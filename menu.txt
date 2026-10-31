@@ -1,1 +1,2 @@
 new menu
+menu is great
