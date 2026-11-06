@@ -5,7 +5,7 @@
 ### Machine Learning Mini-Project | Logistic Regression
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ 분야-Machine%20Learning-purple)
+![Machine Learning](https://img.shields.io/badge/Field-Machine%20Learning-purple)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Logistic%20Regression-orange?logo=scikitlearn&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Records-1%2C000-success)
 ![Status](https://img.shields.io/badge/Project-Academic%20Mini--Project-informational)
